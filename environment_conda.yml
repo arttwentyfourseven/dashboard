@@ -7,7 +7,7 @@ dependencies:
   - sqlalchemy
   - pip
   - pip:
-      - hummingbot
+      - git+https://github.com/arttwentyfourseven/hummingbot.git
       - hummingbot-api-client
       - nest_asyncio
       - pydantic
